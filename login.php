@@ -1,5 +1,6 @@
 ```php
 <?php
-echo "Login Form";
+echo "Styled Login Form";
 ?>
-...
+```
+
